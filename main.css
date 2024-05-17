@@ -30,3 +30,7 @@ p {
 .material-symbols-outlined:hover {
     background-color: rgba(201, 185, 185, 0.475);
 }
+
+.material-symbols-outlined:active {
+    color: rgb(184, 96, 96);
+}
