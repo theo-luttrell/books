@@ -15,6 +15,16 @@ p {
     font-size: x-large;
 }
 
+.left {
+    display: inline;
+    float: left;
+}
+
+.left {
+    display: inline;
+    float: left;
+}
+
 .material-symbols-outlined {
     font-variation-settings:
     'FILL' 0,
