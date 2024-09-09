@@ -44,3 +44,8 @@ p {
 .material-symbols-outlined:active {
     color: rgb(184, 96, 96);
 }
+
+.robot {
+    background-color: white !important;
+    color: black !important;
+}
