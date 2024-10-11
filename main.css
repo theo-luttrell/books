@@ -57,5 +57,5 @@ div {
 
 h3.section-title {
     font-size: medium;
-    color: rgb(73, 73, 73);
+    color: rgb(73, 73, 73) !important;
 }
