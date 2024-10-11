@@ -1,1 +1,14 @@
-* @theo-luttrell
+/.github/CODEOWNERS @theo-luttrell
+
+#book folders
+/lily-the-fish/* @theo-luttrell                  #GPT colab
+/blood-fishing/* @theo-luttrell                  #n/a colab
+/polar-bears/* @theo-luttrell                    #n/a colab
+/the-enchanted-forest-adventure/* @theo-luttrell #GPT: author colab
+
+#main files
+*main.css @theo-luttrell
+*index.html @theo-luttrell
+*ico.png
+
+*[tutorial]* @theo-luttrell #tutorials
