@@ -25,6 +25,10 @@ p {
     float: left;
 }
 
+div {
+    display: inline;
+}
+
 .material-symbols-outlined {
     font-variation-settings:
     'FILL' 0,
