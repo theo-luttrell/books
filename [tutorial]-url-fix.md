@@ -1,4 +1,4 @@
-You know how when you open an open-source url is says `https://soft-tutor.github.io/example/folder/index.html` 
+ou know how when you open an open-source url is says `https://soft-tutor.github.io/example/folder/index.html` 
 <br />This looks ugly but luckily there is a fix for this: folders
 
 Github will use the html of `index.html` if present when no file is specified without changing the url.
