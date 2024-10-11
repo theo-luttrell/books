@@ -54,3 +54,8 @@ div {
     color: black !important;
     font-size: 36px;
 }
+
+h3.section-title {
+    font-size: x-small;
+    color: lightslategray;
+}
