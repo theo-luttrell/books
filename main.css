@@ -65,5 +65,8 @@ h3.section-title {
 }
 nav {
     color: black;
-    background-color: lightgray;
+}
+
+tbody {
+    background-color:lightgray;
 }
