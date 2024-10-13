@@ -13,6 +13,10 @@
 *ico.png @theo-luttrell
 *details.css @theo-luttrell
 
+#navigation
+*all-books @theo-luttrell
+*series/all-series
+
 #series folders
 /series/coding-languages/*                       #Coding Languages (History of...)
 
