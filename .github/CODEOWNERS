@@ -15,7 +15,7 @@
 
 #navigation
 *all-books @theo-luttrell
-*series/all-series
+*series/all-series @theo-luttrell
 
 #series folders
 /series/coding-languages/*                       #Coding Languages (History of...)
