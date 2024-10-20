@@ -97,4 +97,5 @@ li.nav a.nav:hover:not(.active) {
   
 .active.nav {
     background-color: #fff58b;
+    color: black !important;
 }
