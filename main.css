@@ -21,8 +21,7 @@ p {
 }
 
 .right {
-    display: inline;
-    float: left;
+    float: right;
 }
 
 div {
