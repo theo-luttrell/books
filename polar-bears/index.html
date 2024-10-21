@@ -9,6 +9,11 @@
     <link rel="stylesheet" href="../main.css">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/x-icon" href="../ico.png">
+    <script> 
+    $(function(){
+      $("#includedContent").load("../new-menu-bar.html"); 
+    });
+    </script> 
 </head>
 <body><table width="100%">
     <tbody>
@@ -17,6 +22,7 @@
     </tr>
     </tbody>
     </table>
+    <div id="includedContent"></div>
     <nav>
         <ul class="nav">
         <li class="nav"><a class="nav" href="../">Home</a></li>
