@@ -85,17 +85,17 @@ li.nav {
   
 li.nav a.nav {
     display: block;
-    color: white;
+    color: #fff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li.nav a.nav:hover:not(.active) {
-    background-color: #111;
+    background-color: rgba(17, 17, 17, 0.5);
 }
   
 .active.nav {
-    background-color: #fff58b;
+    background-color: rgba(255, 245, 139, 0.7);
     color: black !important;
 }
