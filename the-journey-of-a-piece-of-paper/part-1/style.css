@@ -1,4 +1,9 @@
 .subheading {
-    font-size: x-large;
+    font-size: xx-large;
     font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: lightyellow;
+    color: black;
 }
