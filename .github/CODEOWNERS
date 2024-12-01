@@ -2,14 +2,14 @@
 /.github/README.md @theo-luttrell
 
 #book folders
-/lily-the-fish/* @theo-luttrell                   #GPT colab
-/blood-fishing/* @theo-luttrell                   #n/a colab
-/polar-bears/* @theo-luttrell                     #n/a colab
-/the-enchanted-forest-adventure/* @theo-luttrell  #GPT: author colab
-/history-of-html/* @theo-luttrell                 #collab @oliver n/ avaliable
-/the-secret-bunker/* @theo-luttrell               #n/a colb, quick
-/the-journey-of-a-piece-of-paper/* @theo-luttrell #collab @harry n/ avalialble
-/the-journey-of-a-plastic-bottle/* @theo-luttrell, @Baileyrascal #Daniel: author
+/lily-the-fish/* @theo-luttrell                                 #GPT colab
+/blood-fishing/* @theo-luttrell                                 #n/a colab
+/polar-bears/* @theo-luttrell                                   #n/a colab
+/the-enchanted-forest-adventure/* @theo-luttrell                #GPT: author colab
+/history-of-html/* @theo-luttrell                               #collab @oliver n/ avaliable
+/the-secret-bunker/* @theo-luttrell                             #n/a colb, quick
+/the-journey-of-a-piece-of-paper/* @theo-luttrell               #collab @harry n/ avalialble
+/the-journey-of-a-plastic-bottle/* @theo-luttrell @Baileyrascal #Daniel: author
 
 #main files
 *main.css @theo-luttrell
