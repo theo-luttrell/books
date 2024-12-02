@@ -1,100 +1,99 @@
 body {
-    font-family: 'Amaranth';
-    color: white;
+  font-family: "Amaranth";
+  color: white;
 }
 
 .title {
-    font-size: xxx-large;
+  font-size: xxx-large;
 }
 
 .subheading {
-    font-size: xx-large;
+  font-size: xx-large;
 }
 
 p {
-    font-size: x-large;
+  font-size: x-large;
 }
 
 .left {
-    display: inline;
-    float: left;
+  display: inline;
+  float: left;
 }
 
 .right {
-    float: right;
+  float: right;
 }
 
 div {
-    display: inline;
+  display: inline;
 }
 
 .material-symbols-outlined {
-    font-variation-settings:
-    'FILL' 0,
-    'wght' 4000,
-    'GRAD' 0,
-    'opsz' 90;
-  
-    font-size: 48px;
-    color: white;
-  
-  }
+  font-variation-settings: "FILL" 0, "wght" 4000, "GRAD" 0, "opsz" 90;
+
+  font-size: 48px;
+  color: white;
+}
 
 .material-symbols-outlined:hover {
-    background-color: rgba(201, 185, 185, 0.475);
+  background-color: rgba(201, 185, 185, 0.475);
 }
 
 .material-symbols-outlined:active {
-    color: rgb(184, 96, 96);
+  color: rgb(184, 96, 96);
 }
 
 .robot {
-    background-color: white !important;
-    color: black !important;
-    font-size: 36px;
+  background-color: white !important;
+  color: black !important;
+  font-size: 36px;
 }
 
 h3.section-title {
-    font-size: medium;
-    color: rgb(73, 73, 73) !important;
+  font-size: medium;
+  color: rgb(73, 73, 73) !important;
 }
 
 #submit-link {
-    font-size: x-large;
+  font-size: x-large;
 }
 nav {
-    color: black;
+  color: black;
 }
 
 tbody {
-    background-color:lightgray;
+  background-color: lightgray;
 }
 
 ul.nav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
-  
+
 li.nav {
-    float: left;
+  float: left;
 }
-  
+
 li.nav a.nav {
-    display: block;
-    color: #fff;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 li.nav a.nav:hover:not(.active) {
-    background-color: rgba(17, 17, 17, 0.255);
+  background-color: rgba(17, 17, 17, 0.255);
 }
-  
+
 .active.nav {
-    background-color: rgb(255, 245, 139);
-    color: black !important;
+  background-color: rgb(255, 245, 139);
+  color: black !important;
+}
+
+div.links {
+  display: inline;
 }
