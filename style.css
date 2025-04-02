@@ -1,0 +1,78 @@
+body {
+  background-color: rgb(85, 85, 85);
+  color: white;
+  font-family: "Amaranth";
+}
+
+.title {
+  font-size: xxx-large;
+}
+
+.subheading {
+  font-size: xx-large;
+}
+
+p {
+  font-size: x-large;
+}
+
+div {
+  display: block;
+  background-color: black;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+  padding-top: 0px;
+}
+
+.contain {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: auto;
+}
+
+img {
+  margin: 8px 0 0 20px;
+  padding: 4px;
+}
+
+img#logo {
+  margin: 24px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.title {
+  text-align: center;
+  padding: auto;
+}
+
+.parallax {
+  /* The image used */
+  /* background-image: url("sparkles.png"); */
+  background-color: gray;
+
+  /* Set a specific height */
+  min-height: 750px;
+  max-width: none;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
