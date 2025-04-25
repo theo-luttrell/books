@@ -20,6 +20,16 @@ No Urgent Tasks
 - [ ] _Blood Fishing_ HTML
 - [ ] _Lily the Fish_ HTML
 
+### Details
+
+- [ ] _Blood Fishing_ Details
+- [ ] _Lily the Fish_ Details
+- [ ] _The Secret Bunker_ Details
+- [ ] _The Enchanted Forest Adventure_ Details
+- [ ] _The Journey of a Plastic Bottle_ Details
+- [ ] _The Journey of a Piece of Paper > Part 1_ Details
+- [ ] _The Journey of a Piece of Paper > Part 2_ Details
+
 ### Styling
 All tasks complete
 
