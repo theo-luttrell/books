@@ -5,7 +5,6 @@ No Urgent Tasks
 
 ### IBCs
 
-- [ ] _The Secret Bunker_ IBC
 - [ ] _History of HTML_ IBC
 - [ ] _Journey of a Plastic Bottle_ IBC
 - [ ] _Journey of a Piece of Paper > PART 1_ IBC
@@ -28,6 +27,10 @@ All tasks complete
 All tasks complete
 
 ## Completed Tasks
+
+### IBCs
+
+- [x] _The Secret Bunker_ IBC
 
 ### Styling
 - [x] Book Divs @ _index.html_
