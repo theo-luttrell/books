@@ -1,4 +1,5 @@
 ## Urgent Tasks
+
 No Urgent Tasks
 
 ## Other Tasks
@@ -22,7 +23,6 @@ No Urgent Tasks
 
 ### Details
 
-- [ ] _Blood Fishing_ Details
 - [ ] _Lily the Fish_ Details
 - [ ] _The Secret Bunker_ Details
 - [ ] _The Enchanted Forest Adventure_ Details
@@ -31,22 +31,30 @@ No Urgent Tasks
 - [ ] _The Journey of a Piece of Paper > Part 2_ Details
 
 ### Styling
+
 All tasks complete
 
 ### Links
+
 All tasks complete
 
 ## Completed Tasks
+
+### Details
+
+- [x] _Blood Fishing_ Details
 
 ### IBCs
 
 - [x] _The Secret Bunker_ IBC
 
 ### Styling
+
 - [x] Book Divs @ _index.html_
 - [x] Fix Spacing @ _index.html_
 - [x] Remove `<hr>`
 
 ### Links
+
 - [x] _The Enchanted Forest Adventure_ Linking @ _index.html_
 - [x] _The Enchanted Forest Adventure_ Details Linking @ _index.html_
