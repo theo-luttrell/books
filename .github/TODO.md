@@ -1,7 +1,7 @@
 ## Urgent Tasks
 No Urgent Tasks
 
-## Media
+## Other Tasks
 
 ### IBCs
 
@@ -20,3 +20,17 @@ No Urgent Tasks
 - [ ] _Polar Bears_ HTML
 - [ ] _Blood Fishing_ HTML
 - [ ] _Lily the Fish_ HTML
+
+### Styling
+All tasks complete
+
+### Links
+
+- [ ] _The Enchanted Forest Adventure_ Linking @ _index.html_
+
+## Completed Tasks
+
+### Styling
+- [x] Book Divs @ _index.html_
+- [x] Fix Spacing @ _index.html_
+- [x] Remove `<hr>`
