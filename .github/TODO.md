@@ -25,8 +25,7 @@ No Urgent Tasks
 All tasks complete
 
 ### Links
-
-- [ ] _The Enchanted Forest Adventure_ Linking @ _index.html_
+All tasks complete
 
 ## Completed Tasks
 
@@ -34,3 +33,7 @@ All tasks complete
 - [x] Book Divs @ _index.html_
 - [x] Fix Spacing @ _index.html_
 - [x] Remove `<hr>`
+
+### Links
+- [x] _The Enchanted Forest Adventure_ Linking @ _index.html_
+- [x] _The Enchanted Forest Adventure_ Details Linking @ _index.html_
