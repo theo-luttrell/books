@@ -15,11 +15,9 @@ No Urgent Tasks
 
 All Tasks Complete
 
-### HTML
+### Archives
 
-- [ ] _Polar Bears_ HTML
-- [ ] _Blood Fishing_ HTML
-- [ ] _Lily the Fish_ HTML
+All Tasks Complete
 
 ### Details
 
@@ -46,6 +44,13 @@ All tasks complete
 ### PDFs
 
 - [x] ~~_History of HTML_ PDF~~
+
+### Archives
+
+- [x] ~~_Polar Bears_ HTML~~
+- [x] ~~_Blood Fishing_ HTML~~
+- [x] ~~_Lily the Fish_ HTML~~
+- [x] ~~_The Secret Bunker_ HTML~~
 
 ### Details
 
