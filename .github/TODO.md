@@ -1,6 +1,6 @@
 ## Urgent Tasks
 
-- [ ] <span style="color: RED">!!!</span> _History of HTML_ PDF
+No Urgent Tasks
 
 ## Other Tasks
 
@@ -13,7 +13,7 @@
 
 ### PDFs
 
-- [ ] <span style="color: RED">!!!</span> _History of HTML_ PDF
+All Tasks Complete
 
 ### HTML
 
@@ -40,13 +40,15 @@ All tasks complete
 
 ## Completed Tasks
 
-### Details
-
-- [x] ~~_Blood Fishing_ Details~~
-
 ### IBCs
 
 - [x] ~~_The Secret Bunker_ IBC~~
+
+### PDFs
+- [x] ~~_History of HTML_ PDF~~
+
+### Details
+- [x] ~~_Blood Fishing_ Details~~
 
 ### Styling
 
