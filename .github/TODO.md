@@ -23,7 +23,6 @@ All Tasks Complete
 
 ### Details
 
-- [ ] _Lily the Fish_ Details
 - [ ] _The Secret Bunker_ Details
 - [ ] _The Enchanted Forest Adventure_ Details
 - [ ] _The Journey of a Plastic Bottle_ Details
@@ -45,10 +44,13 @@ All tasks complete
 - [x] ~~_The Secret Bunker_ IBC~~
 
 ### PDFs
+
 - [x] ~~_History of HTML_ PDF~~
 
 ### Details
+
 - [x] ~~_Blood Fishing_ Details~~
+- [x] ~~_Lily the Fish_ Details~~
 
 ### Styling
 
