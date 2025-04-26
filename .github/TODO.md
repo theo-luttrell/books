@@ -42,19 +42,19 @@ All tasks complete
 
 ### Details
 
-- [x] _Blood Fishing_ Details
+- [x] ~~_Blood Fishing_ Details~~
 
 ### IBCs
 
-- [x] _The Secret Bunker_ IBC
+- [x] ~~_The Secret Bunker_ IBC~~
 
 ### Styling
 
-- [x] Book Divs @ _index.html_
-- [x] Fix Spacing @ _index.html_
-- [x] Remove `<hr>`
+- [x] ~~Book Divs @ _index.html_~~
+- [x] ~~Fix Spacing @ _index.html_~~
+- [x] ~~Remove `<hr>`~~
 
 ### Links
 
-- [x] _The Enchanted Forest Adventure_ Linking @ _index.html_
-- [x] _The Enchanted Forest Adventure_ Details Linking @ _index.html_
+- [x] ~~_The Enchanted Forest Adventure_ Linking @ _index.html_~~
+- [x] ~~_The Enchanted Forest Adventure_ Details Linking @ _index.html_~~
